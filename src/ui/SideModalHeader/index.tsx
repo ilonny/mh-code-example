@@ -1,0 +1,1 @@
+export {SideModalHeader} from './SideModalHeader';
